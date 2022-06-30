@@ -1,0 +1,18 @@
+{
+  "name": "Askme",
+  "version": "1.0.0",
+  "description": "Plataforma fácil com perguntas e respostas sobre qualquer assunto!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessica Velloso",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.1"
+  }
+}
